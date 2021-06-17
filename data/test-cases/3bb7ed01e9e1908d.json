@@ -1,0 +1,317 @@
+{
+  "uid" : "3bb7ed01e9e1908d",
+  "name" : "Login to homepage",
+  "fullName" : "Login Validation: Login to homepage",
+  "historyId" : "6f8c17254568e7dda7ca1f45c64bc5cd",
+  "time" : {
+    "start" : 1623924623873,
+    "stop" : 1623924798571,
+    "duration" : 174698
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given Open Web browser",
+      "time" : {
+        "start" : 1623924623875,
+        "stop" : 1623924630693,
+        "duration" : 6818
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Enter URL",
+      "time" : {
+        "start" : 1623924630693,
+        "stop" : 1623924645516,
+        "duration" : 14823
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Enter Username",
+      "time" : {
+        "start" : 1623924645516,
+        "stop" : 1623924650663,
+        "duration" : 5147
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Enter Password",
+      "time" : {
+        "start" : 1623924650663,
+        "stop" : 1623924655775,
+        "duration" : 5112
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then Login Successfully",
+      "time" : {
+        "start" : 1623924655775,
+        "stop" : 1623924677596,
+        "duration" : 21821
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Click on Glenigan tab",
+      "time" : {
+        "start" : 1623924677596,
+        "stop" : 1623924687683,
+        "duration" : 10087
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Click on live project",
+      "time" : {
+        "start" : 1623924687683,
+        "stop" : 1623924697768,
+        "duration" : 10085
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Click on Archived",
+      "time" : {
+        "start" : 1623924697769,
+        "stop" : 1623924707910,
+        "duration" : 10141
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Click on relive project",
+      "time" : {
+        "start" : 1623924707910,
+        "stop" : 1623924717986,
+        "duration" : 10076
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Click on Followed",
+      "time" : {
+        "start" : 1623924717986,
+        "stop" : 1623924728096,
+        "duration" : 10110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When ReClick on live project",
+      "time" : {
+        "start" : 1623924728096,
+        "stop" : 1623924738146,
+        "duration" : 10050
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Click on opportunities",
+      "time" : {
+        "start" : 1623924738146,
+        "stop" : 1623924748246,
+        "duration" : 10100
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When click on live projects",
+      "time" : {
+        "start" : 1623924748246,
+        "stop" : 1623924758304,
+        "duration" : 10058
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When Click on selected",
+      "time" : {
+        "start" : 1623924758305,
+        "stop" : 1623924768383,
+        "duration" : 10078
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When click on live projecct",
+      "time" : {
+        "start" : 1623924768383,
+        "stop" : 1623924778430,
+        "duration" : 10047
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When deClick on Archived",
+      "time" : {
+        "start" : 1623924778430,
+        "stop" : 1623924788524,
+        "duration" : 10094
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When click on live projectss",
+      "time" : {
+        "start" : 1623924788525,
+        "stop" : 1623924798571,
+        "duration" : 10046
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 17,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "feature",
+    "value" : "Login Validation"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1def4499badf36ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623923693785,
+        "stop" : 1623923870512,
+        "duration" : 176727
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3bb7ed01e9e1908d.json",
+  "parameterValues" : [ ]
+}
